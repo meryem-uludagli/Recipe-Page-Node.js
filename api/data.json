@@ -1,35 +1,5 @@
 [
     {
-        "id": "asdasdf34asda43242asd",
-        "recipeName": "Mercimek Çorbası",
-        "category": "Çorba",
-        "ingredients": [
-            "1 su bardağı kırmızı mercimek",
-            "1 adet soğan",
-            "1 adet havuç",
-            "1 adet patates",
-            "2 yemek kaşığı sıvı yağ",
-            "1 tatlı kaşığı tuz",
-            "Yarım çay kaşığı karabiber",
-            "1 tatlı kaşığı kırmızı biber",
-            "6 su bardağı su",
-            "1 limonun suyu"
-        ],
-        "instructions": [
-            "Mercimeği yıkayın ve süzün.",
-            "Soğanı doğrayın, havuç ve patatesi küçük küpler halinde kesin.",
-            "Sıvı yağı bir tencerede ısıtın, doğranmış soğanı ekleyin ve pembeleşene kadar kavurun.",
-            "Havuç ve patatesi ekleyip birkaç dakika daha kavurun.",
-            "Mercimeği ekleyin, suyu ekleyin ve kaynamaya bırakın.",
-            "Kaynadıktan sonra altını kısıp tencerenin kapağını kapatın, mercimekler iyice yumuşayana kadar pişirin.",
-            "Çorbayı blenderdan geçirin, tuz ve baharatları ekleyin.",
-            "Limon suyu ile servis yapın."
-        ],
-        "recipeTime": 30,
-        "servingSuggestion": "Mercimek çorbası, yanında taze ekmekle servis edilebilir.",
-        "image": "https://picsum.photos/501"
-    },
-    {
         "id": "asdasda43242dsfgdfhg",
         "recipeName": "Spagetti Bolognese",
         "category": "Ana Yemek",
@@ -156,5 +126,35 @@
         "servingSuggestion": "Kısır, marul yaprakları ile birlikte servis edilebilir.",
         "id": "70759435-a81c-4a59-be09-236d378debd1",
         "photo": "https://picsum.photos/seed/fc2b7f23-17c1-4ac3-8cdd-36e02c24fd55/500/500"
+    },
+    {
+        "recipeName": "Mercimek Çorbası",
+        "category": "Çorba",
+        "ingredients": [
+            "1 su bardağı kırmızı mercimek",
+            "1 adet soğan",
+            "1 adet havuç",
+            "1 adet patates",
+            "2 yemek kaşığı sıvı yağ",
+            "1 tatlı kaşığı tuz",
+            "Yarım çay kaşığı karabiber",
+            "1 tatlı kaşığı kırmızı biber",
+            "6 su bardağı su",
+            "1 limonun suyu"
+        ],
+        "instructions": [
+            "Mercimeği yıkayın ve süzün.",
+            "Soğanı doğrayın, havuç ve patatesi küçük küpler halinde kesin.",
+            "Sıvı yağı bir tencerede ısıtın, doğranmış soğanı ekleyin ve pembeleşene kadar kavurun.",
+            "Havuç ve patatesi ekleyip birkaç dakika daha kavurun.",
+            "Mercimeği ekleyin, suyu ekleyin ve kaynamaya bırakın.",
+            "Kaynadıktan sonra altını kısıp tencerenin kapağını kapatın, mercimekler iyice yumuşayana kadar pişirin.",
+            "Çorbayı blenderdan geçirin, tuz ve baharatları ekleyin.",
+            "Limon suyu ile servis yapın."
+        ],
+        "recipeTime": 30,
+        "servingSuggestion": "Mercimek çorbası, yanında taze ekmekle servis edilebilir.",
+        "id": "34bcd700-5440-43a1-a20b-dff25603b758",
+        "photo": "https://picsum.photos/seed/ccde97e0-a4de-4c7b-a1a7-7a24a3b41112/500/500"
     }
 ]
