@@ -11,7 +11,7 @@ const App = () => {
     <BrowserRouter>
       <div className="flex">
         <Sidebar />
-        <div className="flex-1 bg-gray-200">
+        <div className="flex-1 bg-gray-200 p-5">
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/tarif/:id" element={<Detail />} />
